@@ -2,7 +2,7 @@
 Developed a doctor chatbot tailored for mental health conversations using the  NLP Mental Health Conversations dataset.  
 
 Key Challenges:
-Performance Comparison: Evaluated the effectiveness of LSTM and GRU against the basic RNN model to understand which performs better.
+Performance Comparison: Evaluated the effectiveness of LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) against the basic RNN (Recurrent Neural Network) model to understand which performs better.
 Benchmarking: Compared the LSTM and GRU models with a benchmark Language Model (LLM) to gauge performance.
 
 Approach:
